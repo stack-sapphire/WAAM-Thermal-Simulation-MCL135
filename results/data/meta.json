@@ -1,0 +1,31 @@
+{
+  "Q_ARC": 1091.2,
+  "H_INPUT_J_per_mm": 242.5,
+  "DT": 0.011259583333333332,
+  "DX": 0.0005,
+  "NX": 200,
+  "NZ": 36,
+  "NZ_SUB": 12,
+  "rows_per_layer": 3,
+  "N_LAYER": 8,
+  "alpha": 2.664396995152278e-06,
+  "V_TRAV": 0.0045,
+  "controlled": {
+    "peak_first": 2663.4,
+    "peak_last": 2822.9,
+    "pool_first": 8.5,
+    "pool_last": 11.0,
+    "total_s": 1377.8
+  },
+  "short": {
+    "peak_first": 2663.4,
+    "peak_last": 3088.6,
+    "pool_first": 8.5,
+    "pool_last": 14.0,
+    "total_s": 257.9
+  },
+  "G_median": 27643.813555577934,
+  "R_median": 0.004303132705274666,
+  "GR_median": 6561176.999277301,
+  "n_gr": 584
+}

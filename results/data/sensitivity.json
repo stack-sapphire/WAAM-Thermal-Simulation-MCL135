@@ -1,0 +1,112 @@
+{
+  "baseline": {
+    "waam": 29275.0,
+    "cast": 26142.0,
+    "billet": 25500.0,
+    "margin": 3133.0,
+    "crossover": 112.32449297971911
+  },
+  "sweeps": [
+    {
+      "name": "WAAM qualification campaign",
+      "key": "c_qual_w",
+      "unit": "USD",
+      "lo": {
+        "val": 8000.0,
+        "waam": 23275.0,
+        "cast": 26142.0,
+        "margin": -2867.0,
+        "xover": 241.9296771870874
+      },
+      "hi": {
+        "val": 25000.0,
+        "waam": 40275.0,
+        "cast": 26142.0,
+        "margin": 14133.0,
+        "xover": null
+      },
+      "swing": 17000.0
+    },
+    {
+      "name": "Casting tooling",
+      "key": "c_tool",
+      "unit": "USD",
+      "lo": {
+        "val": 12000.0,
+        "waam": 29275.0,
+        "cast": 20142.0,
+        "margin": 9133.0,
+        "xover": null
+      },
+      "hi": {
+        "val": 24000.0,
+        "waam": 29275.0,
+        "cast": 32142.0,
+        "margin": -2867.0,
+        "xover": 241.9296771870874
+      },
+      "swing": 12000.0
+    },
+    {
+      "name": "WAAM deposition rate",
+      "key": "mdot_dep",
+      "unit": "kg/h",
+      "lo": {
+        "val": 2.0,
+        "waam": 32725.0,
+        "cast": 26142.0,
+        "margin": 6583.0,
+        "xover": 79.43647627938552
+      },
+      "hi": {
+        "val": 4.0,
+        "waam": 27550.0,
+        "cast": 26142.0,
+        "margin": 1408.0,
+        "xover": 141.64648910411609
+      },
+      "swing": 5175.0
+    },
+    {
+      "name": "WAAM cell rate",
+      "key": "r_cell",
+      "unit": "USD/h",
+      "lo": {
+        "val": 70.0,
+        "waam": 27741.666666666668,
+        "cast": 26142.0,
+        "margin": 1599.6666666666679,
+        "xover": 137.65380655914504
+      },
+      "hi": {
+        "val": 110.0,
+        "waam": 30808.333333333336,
+        "cast": 26142.0,
+        "margin": 4666.333333333336,
+        "xover": 94.86806986722522
+      },
+      "swing": 3066.666666666668
+    },
+    {
+      "name": "Wire cost",
+      "key": "c_wire",
+      "unit": "USD/kg",
+      "lo": {
+        "val": 20.0,
+        "waam": 28125.0,
+        "cast": 26142.0,
+        "margin": 1983.0,
+        "xover": 130.30767088960033
+      },
+      "hi": {
+        "val": 30.0,
+        "waam": 30425.0,
+        "cast": 26142.0,
+        "margin": 4283.0,
+        "xover": 98.70294210692816
+      },
+      "swing": 2300.0
+    }
+  ],
+  "flip_threshold": 10867.0
+}
